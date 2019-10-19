@@ -1,0 +1,4 @@
+baseURL = "http://kos31de.github.io/blog"
+languageCode = "ja-jp"
+title = "git switch personals/kos31de"
+theme = "gohugo-theme-ananke"
