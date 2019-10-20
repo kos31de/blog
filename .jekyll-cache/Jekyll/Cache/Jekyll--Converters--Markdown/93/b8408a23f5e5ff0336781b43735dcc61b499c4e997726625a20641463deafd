@@ -1,7 +1,0 @@
-I"�<h1 id="コミットにgpg署名をつけてみる">コミットにGPG署名をつけてみる</h1>
-<ul>
-  <li><code class="highlighter-rouge">git commit --amend --reset-author</code> したので再度pushしてみる。</li>
-  <li>コミットはここで確認できる。https://github.com/kos31de/blog/commits/master</li>
-  <li>emailも設定しなおして、再再度push。</li>
-</ul>
-:ET
