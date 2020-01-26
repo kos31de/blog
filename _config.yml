@@ -21,8 +21,7 @@
 title: git switch personals/kos31de
 email: kos31de@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  爆速で作ったテキト〜なブログだけど、それなりに形になっていく予定。
-  たまにお気持ち表明していきます。
+  たまにお気持ちを表明していきます。
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kos31de
