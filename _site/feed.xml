@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2019-10-20T12:59:25+09:00</updated><id>/blog/feed.xml</id><title type="html">git switch personals/kos31de</title><subtitle>爆速で作ったテキト〜なブログだけど、それなりに形になっていく予定。 たまにお気持ち表明していきます。</subtitle><entry><title type="html">東京五輪フィールドキャスト共通研修</title><link href="/blog/2019/10/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E5%85%B1%E9%80%9A%E7%A0%94%E4%BF%AE.html" rel="alternate" type="text/html" title="東京五輪フィールドキャスト共通研修" /><published>2019-10-19T00:00:00+09:00</published><updated>2019-10-19T00:00:00+09:00</updated><id>/blog/2019/10/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E5%85%B1%E9%80%9A%E7%A0%94%E4%BF%AE</id><content type="html" xml:base="/blog/2019/10/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E5%85%B1%E9%80%9A%E7%A0%94%E4%BF%AE.html">&lt;h1 id=&quot;東京五輪フィールドキャスト共通研修に行ってきた&quot;&gt;東京五輪フィールドキャスト共通研修に行ってきた&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-05-10T08:45:48+09:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">git switch personals/kos31de</title><subtitle>たまにお気持ちを表明していきます。</subtitle><entry><title type="html">爆速のブログを作りたかった話</title><link href="http://localhost:4000/blog/2020/05/10/%E7%88%86%E9%80%9F%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E8%A9%B1.html" rel="alternate" type="text/html" title="爆速のブログを作りたかった話" /><published>2020-05-10T00:00:00+09:00</published><updated>2020-05-10T00:00:00+09:00</updated><id>http://localhost:4000/blog/2020/05/10/%E7%88%86%E9%80%9F%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E8%A9%B1</id><content type="html" xml:base="http://localhost:4000/blog/2020/05/10/%E7%88%86%E9%80%9F%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E8%A9%B1.html">&lt;h1 id=&quot;爆速のブログを作りたかった話&quot;&gt;爆速のブログを作りたかった話&lt;/h1&gt;
+&lt;p&gt;はてなブログでもブログを書いているのだが、ちょっと重い気がしたので&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/&quot;&gt;パフォーマンスを測定&lt;/a&gt;してみたら、30点くらいだった。
+本業でWebバックエンドのエンジニアをやっておきながら、これではいかんと思ったときにこのブログの存在を思い出した。
+測定してた結果は以下の通り。ヤッタネ。
+ついでに画像はAWS S3に置いてみた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://kos31de-blog.s3-ap-northeast-1.amazonaws.com/PageSpeed_Insights.png&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">爆速のブログを作りたかった話 はてなブログでもブログを書いているのだが、ちょっと重い気がしたのでパフォーマンスを測定してみたら、30点くらいだった。 本業でWebバックエンドのエンジニアをやっておきながら、これではいかんと思ったときにこのブログの存在を思い出した。 測定してた結果は以下の通り。ヤッタネ。 ついでに画像はAWS S3に置いてみた。</summary></entry><entry><title type="html">10000日の誕生日</title><link href="http://localhost:4000/blog/2020/01/16/10000%E6%97%A5%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5.html" rel="alternate" type="text/html" title="10000日の誕生日" /><published>2020-01-16T00:00:00+09:00</published><updated>2020-01-16T00:00:00+09:00</updated><id>http://localhost:4000/blog/2020/01/16/10000%E6%97%A5%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5</id><content type="html" xml:base="http://localhost:4000/blog/2020/01/16/10000%E6%97%A5%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5.html">&lt;h1 id=&quot;10000日の誕生日&quot;&gt;10000日の誕生日&lt;/h1&gt;
+&lt;p&gt;先日、生まれて1万日目の日を迎えた。
+誕生日を日数でカウントしている人はあまりいないと思う。
+かく言う私も、このコンセプトを知ったのが5年くらい前の22歳のときで、8700日あたりの3年半前の24歳の誕生日の頃から日数を意識し始めた。
+自分アイディアではなくて、ある本で読んだ話をマネしようと思った。
+PCRの発明で有名な科学者のKary Mullisの自伝本 “Dancing Naked in the Mind Field” で、10000日目の誕生日を祝うために有給を取ってビーチに出かけたという話があったのだ。&lt;/p&gt;
+
+&lt;p&gt;有給を取りたいところだったが、ここ3ヶ月くらいかけて開発したプロダクトをリリースする日だった。いつでも有給を取れるホワイト環境とはいえ、さすがに休めなかった。というかリリースしたかったので、休みたくなかった。
+ソフトウェアのリリースというのはボタンを押して、はい終わり、ではなくて色々とコマンドを入力したり関係部署に連絡したりというのが必要になる。
+そして、記念すべき日は結果から言うと、予定していた時間内にリリース作業を終えられなかった。リリース失敗である。
+半日遅れで翌日にリリース作業が完了した。&lt;/p&gt;
+
+&lt;p&gt;結論は特にない。
+無理やりまとめると、物事を細かい数字にして考えてみると、普段とは違う見方が出来るかも知れないよというくらいか。&lt;/p&gt;</content><author><name></name></author><summary type="html">10000日の誕生日 先日、生まれて1万日目の日を迎えた。 誕生日を日数でカウントしている人はあまりいないと思う。 かく言う私も、このコンセプトを知ったのが5年くらい前の22歳のときで、8700日あたりの3年半前の24歳の誕生日の頃から日数を意識し始めた。 自分アイディアではなくて、ある本で読んだ話をマネしようと思った。 PCRの発明で有名な科学者のKary Mullisの自伝本 “Dancing Naked in the Mind Field” で、10000日目の誕生日を祝うために有給を取ってビーチに出かけたという話があったのだ。</summary></entry><entry><title type="html">関東itsを活用している</title><link href="http://localhost:4000/blog/2019/11/04/%E9%96%A2%E6%9D%B1ITS%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B.html" rel="alternate" type="text/html" title="関東itsを活用している" /><published>2019-11-04T00:00:00+09:00</published><updated>2019-11-04T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/11/04/%E9%96%A2%E6%9D%B1ITS%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B</id><content type="html" xml:base="http://localhost:4000/blog/2019/11/04/%E9%96%A2%E6%9D%B1ITS%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B.html">&lt;h2 id=&quot;関東itsって&quot;&gt;関東ITSって?&lt;/h2&gt;
+&lt;p&gt;関東ITソフトウェア健康保険組合のこと。
+リッチな健保として&lt;a href=&quot;https://www.itmedia.co.jp/business/articles/1910/11/news004_2.html&quot;&gt;あのホリエモンも推してる。&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;今まで使ったサービス&quot;&gt;今まで使ったサービス&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;レストラン、アルファーロ
+正直味はいまいちでしたが、激安。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;セントラルスポーツクラブ
+ここもいわゆるフィットネスジムというよりは、公営のスポーツセンターに近い感じの施設。
+ここの会員カードを作っておくと、ゴールドジムも安くビジター利用出来るので会員カードを作った。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今後使うかも&quot;&gt;今後使うかも&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;鮨一新
+予約がかなり埋まっていて行くのは来年。
+行きたい人は早めに予約すべし。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;三井住友VISAゴールドカードが年会費無料
+年会費無料はお得。審査も通りやすいらしい。
+ANAマイラーなので、使わないけど作るかも。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ディズニー
+これは抽選で半額チケットが貰える。
+ほぼ当たる抽選らしい。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;保養施設
+宿泊費が安いのは良さそうだけど、食事が期待出来ないので微妙だと思ってる。
+箱根とか各地にある。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;各種検診
+20代で若いと使えるものが少ないけど、安い。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;旅費補助
+旅行に１万円くらい出してくれる。多分使う。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;リンク&quot;&gt;リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.its-kenpo.or.jp/index.html&quot;&gt;ここ&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">関東ITSって? 関東ITソフトウェア健康保険組合のこと。 リッチな健保としてあのホリエモンも推してる。</summary></entry><entry><title type="html">料理教室に行ってきた</title><link href="http://localhost:4000/blog/2019/10/27/%E6%96%99%E7%90%86%E6%95%99%E5%AE%A4%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F.html" rel="alternate" type="text/html" title="料理教室に行ってきた" /><published>2019-10-27T00:00:00+09:00</published><updated>2019-10-27T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/10/27/%E6%96%99%E7%90%86%E6%95%99%E5%AE%A4%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F</id><content type="html" xml:base="http://localhost:4000/blog/2019/10/27/%E6%96%99%E7%90%86%E6%95%99%E5%AE%A4%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F.html">&lt;p&gt;ABCクッキングスタジオと違ってキラキラしていないと噂の&lt;a href=&quot;http://www.betterhome.jp&quot;&gt;ベターホーム&lt;/a&gt;の体験教室で秋野菜のソテー、和風ハンバーグ、味噌汁を作ってきた。
+料理のことを学べるのはいいが、あまり知らない人との共同作業が面倒だなと思った。
+知っている人と一緒に受けるといいと思う。&lt;/p&gt;
+
+&lt;p&gt;教室で選りすぐりの料理道具を買えるのが地味にいいと思った。&lt;/p&gt;</content><author><name></name></author><summary type="html">ABCクッキングスタジオと違ってキラキラしていないと噂のベターホームの体験教室で秋野菜のソテー、和風ハンバーグ、味噌汁を作ってきた。 料理のことを学べるのはいいが、あまり知らない人との共同作業が面倒だなと思った。 知っている人と一緒に受けるといいと思う。</summary></entry><entry><title type="html">部屋探しの優先順位</title><link href="http://localhost:4000/blog/2019/10/23/%E9%83%A8%E5%B1%8B%E6%8E%A2%E3%81%97%E3%81%AE%E5%84%AA%E5%85%88%E9%A0%86%E4%BD%8D.html" rel="alternate" type="text/html" title="部屋探しの優先順位" /><published>2019-10-23T00:00:00+09:00</published><updated>2019-10-23T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/10/23/%E9%83%A8%E5%B1%8B%E6%8E%A2%E3%81%97%E3%81%AE%E5%84%AA%E5%85%88%E9%A0%86%E4%BD%8D</id><content type="html" xml:base="http://localhost:4000/blog/2019/10/23/%E9%83%A8%E5%B1%8B%E6%8E%A2%E3%81%97%E3%81%AE%E5%84%AA%E5%85%88%E9%A0%86%E4%BD%8D.html">&lt;h1 id=&quot;2019年3月版&quot;&gt;2019年3月版&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;日当たりは十分&lt;/li&gt;
+  &lt;li&gt;キッチンのスペース！！作業スペース、2口コンロ&lt;/li&gt;
+  &lt;li&gt;2階以上&lt;/li&gt;
+  &lt;li&gt;駅からは徒歩圏内（10分以内)&lt;/li&gt;
+  &lt;li&gt;コンビニ、スーパー、ジムまで歩いて行ける&lt;/li&gt;
+  &lt;li&gt;周辺の治安（街灯・人通り・お店の種類など）、居酒屋は近くにない方がいい&lt;/li&gt;
+  &lt;li&gt;役所や病院など公共施設が近い&lt;/li&gt;
+  &lt;li&gt;バス便の本数は十分（バスを利用しない場合は不要）&lt;/li&gt;
+  &lt;li&gt;インターネット用光ファイバー回線あり&lt;/li&gt;
+  &lt;li&gt;携帯電話の電波が通じる&lt;/li&gt;
+  &lt;li&gt;洗濯機スペースが屋内にある&lt;/li&gt;
+  &lt;li&gt;ゴミ捨て場が清潔である（管理人がいて掃除されているとなおよし）&lt;/li&gt;
+  &lt;li&gt;宅配BOXあり&lt;/li&gt;
+  &lt;li&gt;周辺の交通や生活音が気にならない&lt;/li&gt;
+  &lt;li&gt;耐震構造である（住宅性能表示制度の等級2以上かを不動産会社に確認）&lt;/li&gt;
+  &lt;li&gt;コンセントの数と配置は十分である&lt;/li&gt;
+  &lt;li&gt;収納スペースが十分である&lt;/li&gt;
+  &lt;li&gt;自転車置き場がある&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;あるとなおよし&quot;&gt;あるとなおよし&lt;/h2&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;オートロックあり&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;現在所有の家具が置ける&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;管理人もしくは大家さんが常駐（大家はいない方がいい気もする）&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;駐輪スペースあり&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;周辺の住人の様子&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">2019年3月版</summary></entry><entry><title type="html">東京五輪フィールドキャスト共通研修</title><link href="http://localhost:4000/blog/2019/10/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E5%85%B1%E9%80%9A%E7%A0%94%E4%BF%AE.html" rel="alternate" type="text/html" title="東京五輪フィールドキャスト共通研修" /><published>2019-10-19T00:00:00+09:00</published><updated>2019-10-19T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/10/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E5%85%B1%E9%80%9A%E7%A0%94%E4%BF%AE</id><content type="html" xml:base="http://localhost:4000/blog/2019/10/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E5%85%B1%E9%80%9A%E7%A0%94%E4%BF%AE.html">&lt;h1 id=&quot;東京五輪フィールドキャスト共通研修に行ってきた&quot;&gt;東京五輪フィールドキャスト共通研修に行ってきた&lt;/h1&gt;
 &lt;p&gt;講義中心で以下のような内容だった。&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;アイスブレイク&lt;/li&gt;
@@ -8,14 +113,14 @@
   &lt;li&gt;障害とは？&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;個人的には競技者の心理や能力や困難性を全く想像できないパラリンピックの方に興味が出た。&lt;/p&gt;</content><author><name></name></author><summary type="html">東京五輪フィールドキャスト共通研修に行ってきた 講義中心で以下のような内容だった。 アイスブレイク オリンピックの歴史やオリンピック精神について 東京五輪の特徴 パラリンピックについて 障害とは？</summary></entry><entry><title type="html">コミットにgpg署名をつけてみる</title><link href="/blog/2019/10/14/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%ABgpg%E7%BD%B2%E5%90%8D%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%82%8B.html" rel="alternate" type="text/html" title="コミットにgpg署名をつけてみる" /><published>2019-10-14T00:00:00+09:00</published><updated>2019-10-14T00:00:00+09:00</updated><id>/blog/2019/10/14/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%ABgpg%E7%BD%B2%E5%90%8D%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%82%8B</id><content type="html" xml:base="/blog/2019/10/14/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%ABgpg%E7%BD%B2%E5%90%8D%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%82%8B.html">&lt;h1 id=&quot;コミットにgpg署名をつけてみる&quot;&gt;コミットにGPG署名をつけてみる&lt;/h1&gt;
+&lt;p&gt;個人的には競技者の心理や能力や困難性を全く想像できないパラリンピックの方に興味が出た。&lt;/p&gt;</content><author><name></name></author><summary type="html">東京五輪フィールドキャスト共通研修に行ってきた 講義中心で以下のような内容だった。 アイスブレイク オリンピックの歴史やオリンピック精神について 東京五輪の特徴 パラリンピックについて 障害とは？</summary></entry><entry><title type="html">コミットにgpg署名をつけてみる</title><link href="http://localhost:4000/blog/2019/10/14/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%ABgpg%E7%BD%B2%E5%90%8D%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%82%8B.html" rel="alternate" type="text/html" title="コミットにgpg署名をつけてみる" /><published>2019-10-14T00:00:00+09:00</published><updated>2019-10-14T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/10/14/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%ABgpg%E7%BD%B2%E5%90%8D%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%82%8B</id><content type="html" xml:base="http://localhost:4000/blog/2019/10/14/%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%ABgpg%E7%BD%B2%E5%90%8D%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%82%8B.html">&lt;h1 id=&quot;コミットにgpg署名をつけてみる&quot;&gt;コミットにGPG署名をつけてみる&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;コミットはここで確認できる。https://github.com/kos31de/blog/commits/master&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">コミットにGPG署名をつけてみる コミットはここで確認できる。https://github.com/kos31de/blog/commits/master</summary></entry><entry><title type="html">東京五輪ボランティア</title><link href="/blog/2019/09/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2.html" rel="alternate" type="text/html" title="東京五輪ボランティア" /><published>2019-09-19T00:00:00+09:00</published><updated>2019-09-19T00:00:00+09:00</updated><id>/blog/2019/09/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2</id><content type="html" xml:base="/blog/2019/09/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2.html">&lt;h1 id=&quot;東京五輪ボランティア&quot;&gt;東京五輪ボランティア&lt;/h1&gt;
-&lt;h2 id=&quot;当選したから&quot;&gt;当選したから&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">コミットにGPG署名をつけてみる コミットはここで確認できる。https://github.com/kos31de/blog/commits/master</summary></entry><entry><title type="html">東京五輪ボランティア</title><link href="http://localhost:4000/blog/2019/09/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2.html" rel="alternate" type="text/html" title="東京五輪ボランティア" /><published>2019-09-19T00:00:00+09:00</published><updated>2019-09-19T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/09/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/19/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2.html">&lt;h1 id=&quot;東京五輪ボランティア&quot;&gt;東京五輪ボランティア&lt;/h1&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;やります&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">東京五輪ボランティア 当選したから やります</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/blog/jekyll/update/2019/09/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-09-14T17:09:24+09:00</published><updated>2019-09-14T17:09:24+09:00</updated><id>/blog/jekyll/update/2019/09/14/welcome-to-jekyll</id><content type="html" xml:base="/blog/jekyll/update/2019/09/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+  &lt;li&gt;当選したからやります&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">東京五輪ボランティア</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/jekyll/update/2019/09/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-09-14T17:09:24+09:00</published><updated>2019-09-14T17:09:24+09:00</updated><id>http://localhost:4000/blog/jekyll/update/2019/09/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/update/2019/09/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
